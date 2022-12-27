@@ -1,0 +1,14 @@
+region:
+  llcrnrlat: 55.301
+  llcrnrlon: 20.55
+  urcrnrlat: 58.5501
+  urcrnrlon: 28.52
+
+hours:
+  - 0
+  - 15
+  - 22
+
+plot:
+  fname: "baltics_ssr_all"
+  format: "svg"
