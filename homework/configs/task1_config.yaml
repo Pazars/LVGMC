@@ -1,0 +1,4 @@
+data_fname : Data_intreview.csv
+datetime_column_name: "Datums.un.laiks"
+datetime_format: "%m.%d %H:%M"
+leap_year: true
